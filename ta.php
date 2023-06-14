@@ -6,3 +6,5 @@ for ($i = 0; $i <= 3; $i++) {
 foreach ($numbers as $key) {
     echo $key ."\n";
 }
+echo "git使い始めた";
+echo "コミットできた";

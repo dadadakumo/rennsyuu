@@ -8,3 +8,4 @@ foreach ($numbers as $key) {
 }
 echo "git使い始めた";
 echo "コミットできた";
+echo "gitとgithub難しい";
